@@ -9,6 +9,8 @@ https://lhp5025.github.io/VentureCSS/dist/venture.min.css
 <link rel="stylesheet" type="text/css" href="https://lhp5025.github.io/VentureCSS/dist/venture.min.css" crossorigin="anonymous">
 ```
 ## Reference  
+-body -> container class for the body
+
 ### Padding
 - tab -> left hand padding of 1.3vw
 - pad-lr -> left and right padding of 1.3vw
